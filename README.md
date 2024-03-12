@@ -8,7 +8,7 @@ This Python script is designed to perform Monte Carlo simulations for estimating
 - NumPy
 - Matplotlib
 - Seaborn
-- 
+
 ### Script Overview:
 
 The script utilizes Monte Carlo simulation techniques to estimate the OOIP based on various reservoir parameters such as porosity, water saturation, thickness, area, and oil formation volume factor. Here's a brief overview of how the script works:
